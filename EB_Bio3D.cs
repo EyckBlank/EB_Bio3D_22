@@ -385,7 +385,7 @@ namespace VMS.TPS
 
             int dSizeIX = dose.XSize;
             int dSizeIY = dose.YSize;
-            int dSizeIZ = dose.YSize;
+            int dSizeIZ = dose.ZSize;
 
             double doX = dose.Origin.x;
             double doY = dose.Origin.y;
