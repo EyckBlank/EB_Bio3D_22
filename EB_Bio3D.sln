@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EB_Bio3D", "EB_Bio3D.csproj", "{8B7731F2-F6FD-4F9A-B8E2-1F335385C758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7731F2-F6FD-4F9A-B8E2-1F335385C758}.Debug|x64.ActiveCfg = Debug|x64
+		{8B7731F2-F6FD-4F9A-B8E2-1F335385C758}.Debug|x64.Build.0 = Debug|x64
+		{8B7731F2-F6FD-4F9A-B8E2-1F335385C758}.Release|x64.ActiveCfg = Release|x64
+		{8B7731F2-F6FD-4F9A-B8E2-1F335385C758}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8BF4A68-C809-4809-B8BA-8187250122A2}
+	EndGlobalSection
+EndGlobal
