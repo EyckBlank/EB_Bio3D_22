@@ -1,6 +1,6 @@
-# ======================
-# ESAPI script  EB_Bio3D
-# ======================
+# ========================
+# ESAPI script  "EB_Bio3D"
+# ========================
 # 
 # 
 # Background:
@@ -26,7 +26,7 @@
 # 
 # The above mentioned software was developed and implemented. 
 # Tests were performed on several patient plans 
-# and confirm the correct functioning of the ESAPI script EB_Bio3D. 
+# and confirm the correct functioning of the ESAPI script "EB_Bio3D". 
 # A clinical test run will be started.
 # 
 # 
@@ -34,9 +34,9 @@
 # Remarks:
 # ========
 # 
-#  The content of this repository (EB_Bio3D) is not allowed for clinical use!
+# The content of this repository ("EB_Bio3D") is not allowed for clinical use!
 # It is only for the purpose of publication!
-# The copyright belongs exclusively to the author of EB_Bio3D!
+# The copyright belongs exclusively to the author of "EB_Bio3D"!
 # 
 # 
 # Germany, Neuruppin,  May the 12th 2021
