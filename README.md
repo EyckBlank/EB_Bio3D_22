@@ -29,10 +29,18 @@
 # and confirm the correct functioning of the ESAPI script "EB_Bio3D". 
 # A clinical test run will be started.
 # 
-# 
-# ========
-# Remarks:
-# ========
+#
+# Techlicals
+# ==========
+#
+# For proper operation the path to the ExcelFile "EB_Bio3D.xlsx" must be adapted!
+# See in "EB_Bio3D.cs", line 837.
+# See     837 oWB = oXL.Workbooks.Open("Q:/ESAPI/Plugins/EB_Bio3D/EB_Bio3D.xlsx");
+#
+#
+# ===============================
+# Remarks, Licences, Limitations:
+# ===============================
 # 
 # The content of this repository ("EB_Bio3D") is not allowed for clinical use!
 # It is only for the purpose of publication!
