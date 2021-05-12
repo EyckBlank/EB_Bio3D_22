@@ -30,7 +30,7 @@
 # A clinical test run will be started.
 # 
 #
-# Techlicals
+# Technicals
 # ==========
 #
 # For proper operation the path to the ExcelFile "EB_Bio3D.xlsx" must be adapted!
