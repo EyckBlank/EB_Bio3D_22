@@ -26,3 +26,5 @@ It is only for the purpose of publication!
 The copyright belongs exclusively to the author of "EB_Bio3D"!
 Germany, Neuruppin,  May the 12th 2021
 Dr. Eyck Blank
+
+[![DOI](https://zenodo.org/badge/473697548.svg)](https://zenodo.org/badge/latestdoi/473697548)
