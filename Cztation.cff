@@ -1,9 +1,0 @@
-@software{eyck_blank_2022_6385012,
-  author       = {Eyck Blank},
-  title        = {EyckBlank/EB\_Bio3D\_22:},
-  month        = mar,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {v1.0.5a},
-  doi          = {10.5281/zenodo.6385012},
-  url          = {https://doi.org/10.5281/zenodo.6385012}
